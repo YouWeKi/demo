@@ -1,7 +1,7 @@
 {
   "posts": [
 	{
-		"id": 1
+		"id": 1,
 		"description": "Bauingenieur",
 		"skills" : {
 			"skill1": "AVA Programme",
@@ -36,7 +36,7 @@
 		}
 	},
 	{
-		"id": 2
+		"id": 2,
 		"description": "Berechnungsingenieur",
 		"skills" : {
 			"skill1": "MKS",
