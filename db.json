@@ -20,11 +20,11 @@
 		},
 		"synonyms": {
 			"synonym1": "Bauleiter",
-			"synonym2": "Bausachverständiger",
+			"synonym2": "Bausachverstaendiger",
 			"synonym3": "Baugutachter",
 			"synonym4": "Bauvertriebsingenieur",
 			"synonym5": "",
-			"synonym6": "",
+			"synonym6": ""
 		},
 		"additional_skills": {
 			"skill1": "",
@@ -59,7 +59,7 @@
 			"synonym3": "Maschinenbau",
 			"synonym4": "Elektrotechnik",
 			"synonym5": "",
-			"synonym6": "",
+			"synonym6": ""
 		},
 		"additional_skills": {
 			"skill1": "",
@@ -69,7 +69,7 @@
 			"skill5": "",
 			"skill6": ""
 		}
-	  }
+	}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -78,5 +78,4 @@
   "profile": {
     "name": "typicode"
   }
-	
 }
