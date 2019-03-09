@@ -1,8 +1,77 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    [
+	{
+		"id": 1
+		"description": "Bauingenieur",
+		"skills" : {
+			"skill1": "AVA Programme",
+			"skill2": "MS Office",
+			"skill3": "",
+			"skill4": "",
+			"skill5": "",
+			"skill6": ""
+		},
+		"course_of_studies": {
+			"course1": "Bauingenieurwesen",
+			"course2": "Maschinenbau",
+			"course3": "Elektrotechnik",
+			"course4": "",
+			"course15": ""
+		}
+		"synonyms": {
+			"synonym1": "Bauleiter",
+			"synonym2": "Bausachverständiger",
+			"synonym3": "Baugutachter",
+			"synonym4": "Bauvertriebsingenieur",
+			"synonym5": "",
+			"synonym6": "",
+		}
+		"additional_skills": {
+			"skill1": "",
+			"skill2": "",
+			"skill3": "",
+			"skill4": "",
+			"skill5": "",
+			"skill6": ""
+		}
+	},
+	{
+		"id": 2
+		"description": "Berechnungsingenieur",
+		"skills" : {
+			"skill1": "MKS",
+			"skill2": "FEM",
+			"skill3": "CFD",
+			"skill4": "C/C++",
+			"skill5": "Java",
+			"skill6": ""
+		},
+		"course_of_studies": {
+			"course1": "Bauingenieurwesen",
+			"course2": "Maschinenbau",
+			"course3": "Elektrotechnik",
+			"course4": "",
+			"course15": ""
+		}
+		"synonyms": {
+			"synonym1": "Luft- und Raumfahrttechnik",
+			"synonym2": "Mechatronik",
+			"synonym3": "Maschinenbau",
+			"synonym4": "Elektrotechnik",
+			"synonym5": "",
+			"synonym6": "",
+		}
+		"additional_skills": {
+			"skill1": "",
+			"skill2": "",
+			"skill3": "",
+			"skill4": "",
+			"skill5": "",
+			"skill6": ""
+		}
+	}
+]
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
