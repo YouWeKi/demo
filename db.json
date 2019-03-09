@@ -4,70 +4,70 @@
 		"id": 1,
 		"description": "Bauingenieur",
 		"skills" : [
-			{"skill1": "AVA Programme"},
-			{"skill2": "MS Office"},
-			{"skill3": ""},
-			{"skill4": ""},
-			{"skill5": ""},
-			{"skill6": ""}
+			{"skill": "AVA Programme"},
+			{"skill": "MS Office"},
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""}
 		],
 		"course_of_studies": [
-			{"course1": "Bauingenieurwesen"},
-			{"course2": "Maschinenbau"},
-			{"course3": "Elektrotechnik"},
-			{"course4": ""},
-			{"course15": ""}
+			{"course": "Bauingenieurwesen"},
+			{"course": "Maschinenbau"},
+			{"course": "Elektrotechnik"},
+			{"course": ""},
+			{"course": ""}
 		],
 		"synonyms": [
-			{"synonym1": "Bauleiter"},
-			{"synonym2": "Bausachverstaendiger"},
-			{"synonym3": "Baugutachter"},
-			{"synonym4": "Bauvertriebsingenieur"},
-			{"synonym5": ""},
-			{"synonym6": ""}
+			{"synonym": "Bauleiter"},
+			{"synonym": "Bausachverstaendiger"},
+			{"synonym": "Baugutachter"},
+			{"synonym": "Bauvertriebsingenieur"},
+			{"synonym": ""},
+			{"synonym": ""}
 		],
 		"additional_skills": [
-			{"skill1": ""},
-			{"skill2": ""},
-			{"skill3": ""},
-			{"skill4": ""},
-			{"skill5": ""},
-			{"skill6": ""}
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""}
 		]
 	},
 	{
 		"id": 2,
 		"description": "Berechnungsingenieur",
 		"skills" : [
-			{"skill1": "MKS"},
-			{"skill2": "FEM"},
-			{"skill3": "CFD"},
-			{"skill4": "C/C++"},
-			{"skill5": "Java"},
-			{"skill6": ""}
+			{"skill": "MKS"},
+			{"skill": "FEM"},
+			{"skill": "CFD"},
+			{"skill": "C/C++"},
+			{"skill": "Java"},
+			{"skill": ""}
 		],
 		"course_of_studies": [
-			{"course1": "Bauingenieurwesen"},
-			{"course2": "Maschinenbau"},
-			{"course3": "Elektrotechnik"},
-			{"course4": ""},
-			{"course15": ""}
+			{"course": "Bauingenieurwesen"},
+			{"course": "Maschinenbau"},
+			{"course": "Elektrotechnik"},
+			{"course": ""},
+			{"course": ""}
 		],
 		"synonyms": [
-			{"synonym1": "Luft- und Raumfahrttechnik"},
-			{"synonym2": "Mechatronik"},
-			{"synonym3": "Maschinenbau"},
-			{"synonym4": "Elektrotechnik"},
-			{"synonym5": ""},
-			{"synonym6": ""}
+			{"synonym": "Luft- und Raumfahrttechnik"},
+			{"synonym": "Mechatronik"},
+			{"synonym": "Maschinenbau"},
+			{"synonym": "Elektrotechnik"},
+			{"synonym": ""},
+			{"synonym": ""}
 		],
 		"additional_skills": [
-			{"skill1": ""},
-			{"skill2": ""},
-			{"skill3": ""},
-			{"skill4": ""},
-			{"skill5": ""},
-			{"skill6": ""}
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""},
+			{"skill": ""}
 		]
 	}
   ],
