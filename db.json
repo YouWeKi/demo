@@ -1,6 +1,5 @@
 {
   "posts": [
-    [
 	{
 		"id": 1
 		"description": "Bauingenieur",
@@ -18,7 +17,7 @@
 			"course3": "Elektrotechnik",
 			"course4": "",
 			"course15": ""
-		}
+		},
 		"synonyms": {
 			"synonym1": "Bauleiter",
 			"synonym2": "Bausachverständiger",
@@ -26,7 +25,7 @@
 			"synonym4": "Bauvertriebsingenieur",
 			"synonym5": "",
 			"synonym6": "",
-		}
+		},
 		"additional_skills": {
 			"skill1": "",
 			"skill2": "",
@@ -53,7 +52,7 @@
 			"course3": "Elektrotechnik",
 			"course4": "",
 			"course15": ""
-		}
+		},
 		"synonyms": {
 			"synonym1": "Luft- und Raumfahrttechnik",
 			"synonym2": "Mechatronik",
@@ -61,7 +60,7 @@
 			"synonym4": "Elektrotechnik",
 			"synonym5": "",
 			"synonym6": "",
-		}
+		},
 		"additional_skills": {
 			"skill1": "",
 			"skill2": "",
@@ -70,8 +69,7 @@
 			"skill5": "",
 			"skill6": ""
 		}
-	}
-]
+	  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
