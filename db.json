@@ -3,74 +3,648 @@
 	{
 		"id": 1,
 		"description": "Bauingenieur",
-		"skills" : [
-			{"skill": "AVA Programme"},
-			{"skill": "MS Office"},
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""}
+		"synonyms": [
+			"Bauleiter",
+			"Bausachverständiger",
+			"Baugutachter",
+			"Bauvertriebsingenieur"
 		],
 		"course_of_studies": [
-			{"course": "Bauingenieurwesen"},
-			{"course": "Maschinenbau"},
-			{"course": "Elektrotechnik"},
-			{"course": ""},
-			{"course": ""}
+			"Bauingenieurwesen",
+			"Maschinenbau",
+			"Elektrotechnik"
 		],
-		"synonyms": [
-			{"synonym": "Bauleiter"},
-			{"synonym": "Bausachverstaendiger"},
-			{"synonym": "Baugutachter"},
-			{"synonym": "Bauvertriebsingenieur"},
-			{"synonym": ""},
-			{"synonym": ""}
+		"skills": [
+			"AVA Programme",
+			"MS Office"
 		],
-		"additional_skills": [
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""}
-		]
+		"additional_skills": [],
+		"specialization": []
 	},
 	{
 		"id": 2,
 		"description": "Berechnungsingenieur",
-		"skills" : [
-			{"skill": "MKS"},
-			{"skill": "FEM"},
-			{"skill": "CFD"},
-			{"skill": "C/C++"},
-			{"skill": "Java"},
-			{"skill": ""}
-		],
+		"synonyms": [],
 		"course_of_studies": [
-			{"course": "Bauingenieurwesen"},
-			{"course": "Maschinenbau"},
-			{"course": "Elektrotechnik"},
-			{"course": ""},
-			{"course": ""}
+			"Luft- und Raumfahrttechnik",
+			"Mechatronik",
+			"Maschinenbau",
+			"Elektrotechnik"
 		],
-		"synonyms": [
-			{"synonym": "Luft- und Raumfahrttechnik"},
-			{"synonym": "Mechatronik"},
-			{"synonym": "Maschinenbau"},
-			{"synonym": "Elektrotechnik"},
-			{"synonym": ""},
-			{"synonym": ""}
+		"skills": [
+			"MKS",
+			"FEM",
+			"CFD",
+			"C/C++",
+			"Java",
+			"Java"
 		],
 		"additional_skills": [
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""},
-			{"skill": ""}
+			"Numerische Simulationsverfahren"
+		],
+		"specialization": [
+			"CFD",
+			"Aerodynamik",
+			"Produktentwicklung",
+			"Entwicklungsabteilung",
+			"CAE"
+		]
+	},
+	{
+		"id": 3,
+		"description": "Chemieingenieur",
+		"synonyms": [
+			"Ingenieur in Chemie"
+		],
+		"course_of_studies": [
+			"Chemie",
+			"Verfahrenstechnik",
+			"Maschinenbau"
+		],
+		"skills": [
+			"Matlab",
+			"MS Office"
+		],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 4,
+		"description": "Elektrotechniker",
+		"synonyms": [
+			"Elektroingenieur"
+		],
+		"course_of_studies": [
+			"Elektrotechnik"
+		],
+		"skills": [
+			"CAD",
+			"CAM",
+			"CAE"
+		],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 5,
+		"description": "Elektroingenieur",
+		"synonyms": [
+			"Elektrotechniker"
+		],
+		"course_of_studies": [
+			"Elektrotechnik"
+		],
+		"skills": [
+			"CAD",
+			"CAM",
+			"CAE"
+		],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 6,
+		"description": "Entwicklungsingenieur",
+		"synonyms": [
+			"Konstruktionsingenieur"
+		],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Wirtschaftsmathematik",
+			"Wirtschaftswissenschaften",
+			"Wirtschaftsingenieurswesen"
+		],
+		"skills": [
+			"CAD",
+			"CAM",
+			"MS Office"
+		],
+		"additional_skills": [],
+		"specialization": [
+			"Thermomanagement Elektrofahrzeuge",
+			"Betriebsfestigkeit",
+			"Elektrotechnik",
+			"Embedded Software",
+			"Fahrwerk Räder",
+			"Hardware",
+			"Infotainmentsysteme",
+			"Leistungselektronik",
+			"Software",
+			"Automatisierung",
+			"Hardware"
+		]
+	},
+	{
+		"id": 7,
+		"description": "Konstruktionsingenieur",
+		"synonyms": [
+			"Entwicklungsingenieur"
+		],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Wirtschaftsmathematik",
+			"Wirtschaftswissenschaften"
+		],
+		"skills": [
+			"CAD",
+			"CAM",
+			"MS Office"
+		],
+		"additional_skills": [
+			"Technisches Zeichnen"
+		],
+		"specialization": [
+			"Anwendungstechnik"
+		]
+	},
+	{
+		"id": 8,
+		"description": "Forschungsingenieur",
+		"synonyms": [
+			"Projektingenieur F&E"
+		],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Luft- und Raumfahrttechnik",
+			"Informatik",
+			"Mathematik",
+			"Medizintechnik"
+		],
+		"skills": [
+			"CAE",
+			"FEM",
+			"AS-I",
+			"MS Office"
+		],
+		"additional_skills": [
+			"Mathematik"
+		],
+		"specialization": []
+	},
+	{
+		"id": 9,
+		"description": "Projektingenieur F&E",
+		"synonyms": [
+			"Forschungsingenieur"
+		],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Luft- und Raumfahrttechnik",
+			"Informatik",
+			"Mathematik",
+			"Medizintechnik"
+		],
+		"skills": [
+			"CAE",
+			"FEM",
+			"AS-I",
+			"MS Office"
+		],
+		"additional_skills": [
+			"Mathematik"
+		],
+		"specialization": []
+	},
+	{
+		"id": 10,
+		"description": "Luft- und Raumfahrtingenieur",
+		"synonyms": [
+			"Luft- und Raumfahrttechniker",
+			"Maschinenbauingenieur"
+		],
+		"course_of_studies": [
+			"Luft- und Raumfahrttechnik",
+			"Maschinenbau"
+		],
+		"skills": [
+			"Matlab",
+			"CATIA",
+			"Solidworks",
+			"SolidEdge",
+			"MS Office"
+		],
+		"additional_skills": [
+			"Fremdsprachen"
+		],
+		"specialization": []
+	},
+	{
+		"id": 11,
+		"description": "Maschinenbauingenieur",
+		"synonyms": [
+			"Luft- und Raumfahrtingenieur",
+			"Luft- und Raumfahrttechniker",
+			"Diplomingenieur Maschinenbau"
+		],
+		"course_of_studies": [
+			"Luft- und Raumfahrttechnik",
+			"Maschinenbau"
+		],
+		"skills": [
+			"Matlab",
+			"CATIA",
+			"Solidworks",
+			"SolidEdge",
+			"MS Office"
+		],
+		"additional_skills": [
+			"Fremdsprachen"
+		],
+		"specialization": []
+	},
+	{
+		"id": 12,
+		"description": "Projektingenieur",
+		"synonyms": [],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Elektrotechnik",
+			"Bauingenieurwesen",
+			"Chemie",
+			"Medieninformatik"
+		],
+		"skills": [
+			"MS Office",
+			"Projektmanagementsoftware"
+		],
+		"additional_skills": [],
+		"specialization": [
+			"Messingenieur",
+			"Automatisierungstechnik",
+			"Verfahrenstechnik"
+		]
+	},
+	{
+		"id": 13,
+		"description": "Produktionsingenieur",
+		"synonyms": [
+			"Fertigungsingenieur",
+			"Ingenieur Fertigung und Produktion",
+			"Ingenieur Produktion und Fertigung"
+		],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Wirtschaftsingenieurswesen",
+			"Bauingenieurwesen"
+		],
+		"skills": [
+			"CAD",
+			"MS Office"
+		],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 14,
+		"description": "Qualitätsingenieur",
+		"synonyms": [
+			"Ingenieur Qualitätsmanagement",
+			"Ingenieur Qualitätssicherung",
+			"QS Ingenieur"
+		],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Medizintechnik",
+			"Elektrotechnik",
+			"Bauingenieurwesen",
+			"Wirtschaftsingenieurswesen"
+		],
+		"skills": [
+			"SAP",
+			"MS Office",
+			"iba",
+			"SQL"
+		],
+		"additional_skills": [
+			"FMEA",
+			"FMEDA",
+			"SPC",
+			"8D Methodik",
+			"Six Sigma",
+			"APQP"
+		],
+		"specialization": []
+	},
+	{
+		"id": 15,
+		"description": "Salesingenieur",
+		"synonyms": [
+			"Vertriebsingenieur"
+		],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Wirtschaftsingenieurswesen",
+			"Wirtschaftswissenschaften",
+			"Projektmanagement"
+		],
+		"skills": [
+			"MS Office"
+		],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 16,
+		"description": "Schweißfachingenieur",
+		"synonyms": [
+			"Schweißfachaufsichtsingenieur",
+			"Schweißfachaufsicht"
+		],
+		"course_of_studies": [
+			"Luft- und Raumfahrttechnik",
+			"Maschinenbau",
+			"Bauingenieurwesen",
+			"Wirtschaftsingenieurswesen"
+		],
+		"skills": [
+			"CAD",
+			"MS Office"
+		],
+		"additional_skills": [
+			"Metalle ",
+			"Werkstoffe",
+			"Fremdsprachen"
+		],
+		"specialization": []
+	},
+	{
+		"id": 17,
+		"description": "Toningenieur",
+		"synonyms": [
+			"Sound Engineer",
+			"Audioingenieur",
+			"Audioengineer"
+		],
+		"course_of_studies": [
+			"Mechatronik",
+			"Elektrotechnik",
+			"Maschinenbau",
+			"Wirtschaftsingenieurswesen",
+			"Filmwissenschaften"
+		],
+		"skills": [
+			"Logic",
+			"Cubase",
+			"Pro-Tools",
+			"Samplitude"
+		],
+		"additional_skills": [
+			"Fremdsprachen"
+		],
+		"specialization": []
+	},
+	{
+		"id": 18,
+		"description": "Vertriebsingenieur",
+		"synonyms": [
+			"Salesingenieur"
+		],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Wirtschaftsingenieurswesen",
+			"Wirtschaftswissenschaften",
+			"Projektmanagement"
+		],
+		"skills": [
+			"MS Office"
+		],
+		"additional_skills": [
+			"guter sprachlicher Ausdruck",
+			"Kommunikation"
+		],
+		"specialization": [
+			"Elektrotechnik"
+		]
+	},
+	{
+		"id": 19,
+		"description": "Vermessungsingenieur",
+		"synonyms": [],
+		"course_of_studies": [
+			"Maschinenbau",
+			"Elektrotechnik",
+			"Wirtschaftsingenieurswesen",
+			"Bauingenieurwesen"
+		],
+		"skills": [
+			"CAD",
+			"GIS ",
+			"MS Office",
+			"SAP"
+		],
+		"additional_skills": [
+			"Fremdsprachen"
+		],
+		"specialization": []
+	},
+	{
+		"id": 20,
+		"description": "Wasserbauingenieur",
+		"synonyms": [
+			"Ingenieur für Wasserwirtschaft"
+		],
+		"course_of_studies": [
+			"Ingenieurwissenschaften Schwerpunkt Ökologie",
+			"Bauingenieurwesen",
+			"Erneuerbare Energien"
+		],
+		"skills": [
+			"MS Office",
+			"CAD",
+			"Civil 3D"
+		],
+		"additional_skills": [
+			"Auslandserfahrung"
+		],
+		"specialization": []
+	},
+	{
+		"id": 21,
+		"description": "Wirtschaftsingenieur",
+		"synonyms": [],
+		"course_of_studies": [
+			"Wirtschaftsingenieurswesen"
+		],
+		"skills": [
+			"MS Office"
+		],
+		"additional_skills": [
+			"Auslandserfahrung"
+		],
+		"specialization": [
+			"Elektrotechnik",
+			"Energiemanagement",
+			"Energiesysteme",
+			"Maschinenbau"
+		]
+	},
+	{
+		"id": 22,
+		"description": "VR-Ingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 23,
+		"description": "Softwareingenieur",
+		"synonyms": [
+			"Softwareentwicklungsingenieur",
+			"Software-Entwicklungsingenieur"
+		],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 24,
+		"description": "Betriebsingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 25,
+		"description": "Applikationsingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 26,
+		"description": "Beratenderingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 27,
+		"description": "Diplomingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": [
+			"Verfahrenstechnik"
+		]
+	},
+	{
+		"id": 28,
+		"description": "Ingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": [
+			"Fahrzeugtechnik",
+			"Produktionstestspezifikationen",
+			"Prozessintegration",
+			"QS",
+			"QS",
+			"EMR",
+			"EMV",
+			"FS",
+			"GIS",
+			"Inbetriebnahme",
+			"IT",
+			"KBE"
+		]
+	},
+	{
+		"id": 29,
+		"description": "Lead-Ingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 30,
+		"description": "Maschineningenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 31,
+		"description": "Planungsingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 32,
+		"description": "Prozessingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 33,
+		"description": "Prüfingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 34,
+		"description": "Simulationsingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 35,
+		"description": "Systemingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": []
+	},
+	{
+		"id": 36,
+		"description": "Versuchsingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": [
+			"im Technikum"
+		]
+	},
+	{
+		"id": 37,
+		"description": "Serviceingenieur",
+		"synonyms": [],
+		"course_of_studies": [],
+		"skills": [],
+		"additional_skills": [],
+		"specialization": [
+			"Outage Excellence"
 		]
 	}
-  ],
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
